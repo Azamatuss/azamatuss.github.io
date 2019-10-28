@@ -6,4 +6,4 @@ header:
 ---
 
 I am a data science enthusiast
-  etc, etc, 
+  etc, etc,
