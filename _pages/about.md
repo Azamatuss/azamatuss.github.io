@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/almaty.jpg"
+  image: "/images/About.jpg"
 ---
 
 I am a data science enthusiast
