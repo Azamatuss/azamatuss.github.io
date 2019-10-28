@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Azamat Ussenov"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Azamat Ussenov"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Azamat Ussenov"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/Portrait Aza_edited.jpg"
   bio              : "Hi! I will be posting my projects and sharing my thoughts on data science topics"
   location         : "Chicago/Almaty"
   email            : usenov.azamat@gmail.com
