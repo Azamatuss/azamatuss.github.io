@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Azamat Ussenov"
-  avatar           : "images/Portrait Aza_edited.jpg"
+  avatar           : "/images/Portrait Aza_edited.jpg"
   bio              : "Hi! I will be posting my projects and sharing my thoughts on data science topics"
   location         : "Chicago/Almaty"
   email            : usenov.azamat@gmail.com
